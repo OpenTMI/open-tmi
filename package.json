@@ -67,7 +67,7 @@
     "mime": "^2.6.0",
     "moment": "^2.29.3",
     "mongodb-memory-server": "^8.4.2",
-    "mongoose": "^6.2.9",
+    "mongoose": "^6.13.6",
     "mongoose-query": "^0.8.0",
     "mongoose-schema-jsonschema": "^2.0.2",
     "nconf": "^0.12.0",
